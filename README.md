@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirav Vaghasia</h1>
+<h3 align="center">Student of Computer Science & Engineering</h3>
 <p align="center">I am currently studying Computer Science and Enginnering at Darshan University.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirav2283&label=Profile%20views&color=0e75b6&style=flat" alt="nirav2283" /> </p>
 
